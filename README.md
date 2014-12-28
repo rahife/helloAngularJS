@@ -1,13 +1,9 @@
 helloAngularJS
 ==============
 
-Simple HelloWord project using AngularJS
+Simple HelloWord project using AngularJS.
 
-To do it from the scratch
--------------------------
+Example includes a very basic use of directives like ng-app, ng-include, ng-controller, ng-model and angular module, angular controller and expressions.
 
-- npm init
-- npm install angular --save-dev
-- ...
 
 More info at <https://angularjs.org>
